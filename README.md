@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Este projeto demonstra a aplicação de IA Generativa no desenvolvimento de um manual visual e auditivo para a padronização e implementação de métricas de classificação de bugs. O vídeo gerado, com pouco mais de 5 minutos, detalha o processo que serve como base para um gráfico analítico, crucial para o apoio na tomada de decisões estratégicas. Esta iniciativa foi apresentada à gestão e, atualmente, é o pilar de um painel de qualidade e desenvolvimento utilizado por todas as equipes da companhia.
+Este projeto demonstra a aplicação de IA Generativa no desenvolvimento de um manual visual e auditivo para a padronização e implementação de métricas de classificação de bugs. O vídeo gerado, com pouco mais de 6 minutos, detalha o processo que serve como base para um gráfico analítico, crucial para o apoio na tomada de decisões estratégicas. Esta iniciativa foi apresentada à gestão e, atualmente, é o pilar de um painel de qualidade e desenvolvimento utilizado por todas as equipes da companhia.
 
 ## 🤖 Tecnologias Utilizadas
 
