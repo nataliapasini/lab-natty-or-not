@@ -23,3 +23,13 @@ O produto final é um vídeo que, em poucos minutos, apresenta de forma didátic
 ## 💭 Reflexão (Opcional)
 
 O projeto demonstrou, na prática, a versatilidade e o poder das IAs Generativas na produção de conteúdo. A capacidade de transformar um manual puramente textual em um material audiovisual completo (vídeo de treinamento) de forma rápida é um divisor de águas. Anteriormente, essa tarefa demandaria um tempo considerável de colaboradores, equipamentos e etapas complexas de produção. A solução prova que, ao utilizar um conteúdo escrito consolidado como base, é possível gerar materiais de capacitação facilitando o dia a dia das equipes e otimizando os recursos empresariais.
+
+## 📚 Recursos Relacionados e Extensões
+
+A técnica de utilizar IA Generativa para transformar conteúdo textual em audiovisual, aplicada neste projeto, também foi utilizada em outros materiais relacionados à qualidade de software e gestão de bugs:
+
+- **Publicação sobre Métricas de Qualidade para uma Análise Eficiente de Bugs (Conteúdo Escrito):** Uma discussão aprofundada sobre o assunto abordado no contexto deste projeto.
+[Métricas de Qualidade para uma Análise Eficiente de Bugs](https://www.linkedin.com/posts/npasini_qualidadedesoftware-qa-softwaretesting-activity-7329260613681987584-43UR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8xzwABny9USWtmcuNhKtkGKnFIm_mLR3M).
+
+- **Publicação Reportando Bugs com Eficácia (Aplicação da Mesma Técnica de IA):** Outro exemplo de conteúdo em vídeo gerado com a mesma tecnologia e focado em qualidade e bugs, demonstrando a versatilidade da abordagem.
+[Reportando Bugs com Eficácia](https://www.linkedin.com/posts/npasini_qualidadedesoftware-bugreport-desenvolvimento-activity-7371735490087161856-U8Wy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8xzwABny9USWtmcuNhKtkGKnFIm_mLR3M).
